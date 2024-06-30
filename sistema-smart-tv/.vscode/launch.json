@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Testes",
+            "request": "launch",
+            "mainClass": "Testes",
+            "projectName": "sistema-smart-tv_f1926f7e"
+        },
+        {
+            "type": "java",
             "name": "NovoAboutMe",
             "request": "launch",
             "mainClass": "NovoAboutMe",
